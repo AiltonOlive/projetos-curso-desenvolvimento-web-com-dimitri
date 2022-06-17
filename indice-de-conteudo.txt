@@ -1,0 +1,4 @@
+ Curso HTML com dimitri
+
+- Metas tag, Cabeçalho e Paragrafo. concluido
+- Formatação de textos. em andamento
